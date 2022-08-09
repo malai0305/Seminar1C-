@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Документы\seminar1C#\exercise1\bin\Debug\net6.0\exercise1.exe
+C:\Users\Артем\OneDrive\Документы\seminar1C#\exercise1\bin\Debug\net6.0\exercise1.deps.json
+C:\Users\Артем\OneDrive\Документы\seminar1C#\exercise1\bin\Debug\net6.0\exercise1.runtimeconfig.json
+C:\Users\Артем\OneDrive\Документы\seminar1C#\exercise1\bin\Debug\net6.0\exercise1.dll
+C:\Users\Артем\OneDrive\Документы\seminar1C#\exercise1\bin\Debug\net6.0\exercise1.pdb
+C:\Users\Артем\OneDrive\Документы\seminar1C#\exercise1\obj\Debug\net6.0\exercise1.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Документы\seminar1C#\exercise1\obj\Debug\net6.0\exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Документы\seminar1C#\exercise1\obj\Debug\net6.0\exercise1.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Документы\seminar1C#\exercise1\obj\Debug\net6.0\exercise1.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Документы\seminar1C#\exercise1\obj\Debug\net6.0\exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Документы\seminar1C#\exercise1\obj\Debug\net6.0\exercise1.dll
+C:\Users\Артем\OneDrive\Документы\seminar1C#\exercise1\obj\Debug\net6.0\refint\exercise1.dll
+C:\Users\Артем\OneDrive\Документы\seminar1C#\exercise1\obj\Debug\net6.0\exercise1.pdb
+C:\Users\Артем\OneDrive\Документы\seminar1C#\exercise1\obj\Debug\net6.0\exercise1.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Документы\seminar1C#\exercise1\obj\Debug\net6.0\ref\exercise1.dll
